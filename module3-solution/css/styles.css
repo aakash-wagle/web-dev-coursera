@@ -1,0 +1,36 @@
+.navbar-inverse{
+  margin: 0px;
+  border-radius: 0;
+}
+
+#navbar-container{
+  margin: 0px 10px;
+}
+
+#navbar-container a{
+  font-weight: bold;
+  font-size: 1.8em;
+  color: floralwhite;
+}
+
+#collapsable-menu-items{
+  margin: 0px;
+  padding: 0px;
+  overflow: unset;
+  background-color: whitesmoke;
+}
+
+.list-item{
+  font-weight: bold;
+  font-size: 1.4em;
+  border: 2px solid;
+}
+
+#main-content .row{
+  margin: 0px 10px;
+}
+
+.row section{
+  height: 1000px;
+  background-color: azure;
+}
